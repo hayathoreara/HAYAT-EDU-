@@ -1,0 +1,6 @@
+{
+  "name": "HAYAT EDU",
+  "description": "Class 11 premium education app for Mathematics, Physics, and Chemistry with notes, formulas, interactive MCQs, practice questions, and study tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
